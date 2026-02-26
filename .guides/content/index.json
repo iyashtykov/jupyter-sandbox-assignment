@@ -1,0 +1,17 @@
+{
+	"title": "jupyter sandboxes",
+	"theme": "light",
+	"scripts": [],
+	"suppressPageNumbering": true,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": true,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"jupyter-4742"
+	]
+}

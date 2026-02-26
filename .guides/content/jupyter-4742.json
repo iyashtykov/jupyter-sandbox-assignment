@@ -1,0 +1,17 @@
+{
+	"id": "474246cf-9617-6932-748a-7ba632a4cace",
+	"title": "jupyter",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels-tree"
+}

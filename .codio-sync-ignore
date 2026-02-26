@@ -1,0 +1,5 @@
+.codio-sync-ignore
+.g**
+.settings
+.ipynb_checkpoints
+mnt
